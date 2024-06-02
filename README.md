@@ -24,7 +24,7 @@ The Banking System is a Java Swing application that simulates basic banking oper
  1. clone the repository
 ```
     git clone https://github.com/Soumyadip8673/simple_ATM_simulator.git
-    cd banking-system
+    cd banking_management
    ```
  2. run the project
 ```
